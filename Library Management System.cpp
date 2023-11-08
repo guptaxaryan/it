@@ -6,7 +6,7 @@
 #include<conio.h> //library management system
 using namespace std;
 class Lib
-{
+{//comment
    public:
        char bookname[100],auname[50],sc[20],sc1[50];
        int q,B,p;
