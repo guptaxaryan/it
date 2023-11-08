@@ -6,7 +6,7 @@
 #include<conio.h>
 using namespace std;
 class Lib
-{
+{ //meet
    public:
        char bookname[100],auname[50],sc[20],sc1[50];
        int q,B,p;
